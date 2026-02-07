@@ -1,0 +1,15 @@
+Name: Domination 9999 (Port 1) (v1)
+
+Creator: Denny82044
+
+Notes:
+holy...
+
+note: player 1 has to get over a certain amount of A presses for it to work. This number is currently not known.
+
+second note: this probably wont work if other players get the 160 max. Also, this code doesn't support UnclePunch's 300 uncapped code.
+
+third and final note: this hasn't been tested on real hardware, but is very much expected to crash.
+
+Code:
+044A8640 0010C98A
