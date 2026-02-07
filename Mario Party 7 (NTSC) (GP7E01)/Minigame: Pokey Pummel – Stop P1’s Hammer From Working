@@ -1,0 +1,5 @@
+# Stops P1 from knocking down any Pokeys.
+#
+# Note: may cause some minor visual glitches.
+
+0053A381 00000001
