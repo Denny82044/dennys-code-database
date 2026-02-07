@@ -1,0 +1,12 @@
+Name: Minigame: Domination - Stop P1's Hammer From Working
+
+Creator: Denny82044
+
+Notes:
+Stops P1 from setting up any Dominoes.
+
+Note: may cause some glitches.
+
+Code:
+02428A9A 00000000
+04428A98 00000000
