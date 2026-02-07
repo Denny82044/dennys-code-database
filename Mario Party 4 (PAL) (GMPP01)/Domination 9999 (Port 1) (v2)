@@ -1,0 +1,21 @@
+Name: Domination 9999 (Port 1) (v2)
+
+Creator: Denny82044
+
+Notes:
+holy...
+
+1. player 1 has to get over a certain amount of A presses for it to work. This number is currently not known.
+
+2. this probably wont work if other players get the 160 max. Also, this code doesn't support UnclePunch's 300 uncapped code.
+
+3. this hasn't been tested on real hardware, but is very much expected to crash.
+
+v2 Changelogs:
+1. Sets counter to 999 when 160 is hit.
+
+2. When 160 is hit, the value auto changes to 9999, this is to make the camera go to 9999 instead of the value reached. Note that this does NOT make the falling section go on for longer.
+
+Code:
+044A8640 0010C98A
+04463E78 0000270F
