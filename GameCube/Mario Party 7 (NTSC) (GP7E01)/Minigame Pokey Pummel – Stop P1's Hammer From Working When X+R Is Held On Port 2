@@ -1,0 +1,10 @@
+Name: Minigame: Pokey Pummel – Stop P1's Hammer From Working When X+R Is Held On Port 2
+
+Creator: Denny82044
+
+Notes:
+
+Code:
+282F2C92 00000420
+0053A381 00000001
+E0000000 80008000
