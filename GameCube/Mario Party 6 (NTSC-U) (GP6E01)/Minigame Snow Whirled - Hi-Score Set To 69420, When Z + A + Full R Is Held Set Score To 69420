@@ -1,0 +1,12 @@
+Name: Minigame: Snow Whirled - Hi-Score Set To 69420, When Z + A + Full R Is Held Set Score To 69420
+
+Creator: denny82044
+
+Notes:
+The record setting can be some RNG, also its visual, it doesnt actually become your record.
+
+Code:
+0453CAD8 00010F2C
+282BFFD0 00002130
+04537C58 00010F2C
+E0000000 80008000
