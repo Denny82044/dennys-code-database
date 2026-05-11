@@ -1,4 +1,10 @@
-
+$Minigame: Domination - Show CPS in Counter While Mashing (v2.1) [denny82044]
+*Shows current CPS over the counter when mashing.
+*
+*Version 2.1
+*
+*Changelogs:
+*Fixed P2 initial 301
 C200EBF0 00000025
 9421FF80 BC610008
 3C608047 80631800
