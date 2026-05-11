@@ -1,4 +1,4 @@
-$Minigame: Domination - Show CPS in Counter While Mashing [denny82044]
+$Minigame: Domination - Show CPS in Counter While Mashing (v2) [denny82044]
 *Shows current CPS over the counter when mashing.
 *
 *Version 2.0
