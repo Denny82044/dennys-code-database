@@ -1,5 +1,5 @@
 $Minigame: Snow Whirled - Bypass 9720° Limit [denny82044]
-*Removes the hardcoded 9720° cap in Snow Whirled (NTSC Version).
+*Removes the hardcoded 9720° cap in Snow Whirled (NTSC-U Version).
 204CB568 38650001
 044CB550 60000000
 044CB5FC 60000000
