@@ -3,7 +3,7 @@ Name: Unlock All Minigames
 Creator: Denny82044
 
 Notes:
-took long enough for there to be a PAL unlock all minigames code...
+Unlocks all minigame for Mario Party 4 (PAL).
 
 Code:
 040310D4 3880FFFF
