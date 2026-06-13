@@ -7,4 +7,6 @@ Stops P1 from knocking down any Pokeys.
 may cause some minor visual glitches.
 
 Code:
+28291558 0000000B
 0053A381 00000001
+E2000001 80008000
