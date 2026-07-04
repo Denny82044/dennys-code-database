@@ -1,6 +1,8 @@
 $Minigame: Domination - Show CPS in Counter While Mashing (v3.2) [denny82044]
 *Shows current CPS over the score counter when mashing.
 *
+*Note: this code is not yet fully developed and crashes should be expected. Please report any crashes to me or discord (denny82044) or open an issue thread on the GitHub Repo.
+*
 *Version 3.2
 *
 *Changelogs:
