@@ -1,5 +1,5 @@
 $Minigame: Pokey Pummel - Show CPS of Final Time [denny82044]
-*Shows final CPS over the timer at the end of Pokey Pummel. (65/time)
+*Shows final CPS over the timer at the end of Pokey Pummel (65/final time).
 C2010590 0000004B
 A81F0004 3D80817F
 618C0000 906C000C
