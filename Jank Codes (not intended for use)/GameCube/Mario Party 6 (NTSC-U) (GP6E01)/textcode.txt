@@ -1,0 +1,6 @@
+$Minigame: Snow Whirled - Hi-Score Set To 69420, When Z + A + Full R Is Held Set Score To 69420 [denny82044]
+*the crap i do when im bored...
+0453CAD8 00010F2C
+282BFFD0 00002130
+04537C58 00010F2C
+E0000000 80008000

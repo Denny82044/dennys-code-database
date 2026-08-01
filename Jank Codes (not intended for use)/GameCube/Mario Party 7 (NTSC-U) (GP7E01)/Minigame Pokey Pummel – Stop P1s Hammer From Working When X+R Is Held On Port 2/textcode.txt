@@ -1,0 +1,6 @@
+$Minigame: Pokey Pummel – Stop P1's Hammer From Working When X+R Is Held On Port 2 [denny82044]
+*Stops P1 from knocking down any Pokeys when X+R is held on Port 2.
+*May cause some minor visual glitches.
+282F2C92 00000420
+0053A381 00000001
+E0000000 80008000

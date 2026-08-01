@@ -1,0 +1,4 @@
+$Domination 9999 (Port 1) [denny82044]
+*vanilla only.
+044A8640 0010C98A
+04463E78 0000270F

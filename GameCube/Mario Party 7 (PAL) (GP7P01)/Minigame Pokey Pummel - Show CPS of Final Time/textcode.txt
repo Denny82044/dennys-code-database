@@ -1,9 +1,5 @@
 $Minigame: Pokey Pummel - Show CPS of Final Time [denny82044]
 *Shows final CPS over the timer at the end of Pokey Pummel.
-*
-*Note: this code is not yet fully developed and crashes should be expected. Please report any crashes to me or discord (denny82044) or open an issue thread on the GitHub Repo.
-*
-*Version 1.0
 C2010564 0000004B
 A81F0004 3D80817F
 618C0000 906C000C

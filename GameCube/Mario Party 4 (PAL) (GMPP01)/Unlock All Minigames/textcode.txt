@@ -1,0 +1,3 @@
+$Unlock All Minigames [denny82044]
+*Unlocks all minigames for Mario Party 4 (PAL).
+040310D4 3880FFFF
