@@ -1,5 +1,5 @@
 $Minigame: Domination - Up to 600 Womps [denny82044]
-*Based off of UnclePunch's Domination 300 code, but extends the cap further to 600 womps.
+*Based off of UnclePunch's Domination 300 code, but extends the cap further to 600 whomps.
 C203220C 0000001F
 A0610008 2C03000F
 408200E8 807F0004
